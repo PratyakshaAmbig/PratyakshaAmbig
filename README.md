@@ -1,9 +1,6 @@
-### Hi there 👋
+HELLO I AM PRATYAKSHA AMBIG
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyaksha-ambig-1b3883225/)&nbsp;
 
-<!--
-**PratyakshaAmbig/PratyakshaAmbig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
